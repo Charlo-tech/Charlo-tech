@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Personal front-end projects<br>I'm looking to collaborate on Front-end Work<br>I'm looking for help with JavaScript<br>I'm currently learning Python<br>Ask me about React<br>Fun fact I play bass guitar
+I'm currently working on Personal front-end projects<br>I'm looking to collaborate on Front-end Work<br>I'm looking for help with JavaScript<br>I'm currently learning Python<br>Ask me about React<br>Fun fact I play bass guitar<br>
 Pronouns: He/Him
 
 ## 🌐 Socials:
