@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Personal front-end projects<br>I'm looking to collaborate on Front-end Work<br>I'm looking for help with JavaScript<br>I'm currently learning Python<br>Ask me about React<br>Fun fact I play bass guitar<br>
+I'm currently working on Personal front-end projects<br>I'm looking to collaborate on Front-end Work<br>I'm looking for help with ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)<br>I'm currently learning ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>Ask me about ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)<br>Fun fact I play bass guitar<br>
 Pronouns: He/Him
 
 ## 🌐 Socials:
